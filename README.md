@@ -1,3 +1,5 @@
+![image](https://github.com/Brunitinhaaa/Portugol/assets/104976135/49375950-6e71-40eb-ae99-5f521942933e)
+
 # Aprendendo Programação com Portugol
 
 ## Algoritmos Básicos

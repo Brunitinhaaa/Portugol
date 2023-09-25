@@ -8,5 +8,8 @@ Este repositório oferece uma coleção de algoritmos simples, incluindo cálcul
 ## Objetivo
 O principal objetivo deste repositório é proporcionar uma base para iniciar na programação. Os recursos disponíveis aqui permitem a compreensão de conceitos essenciais por meio de exemplos práticos e exercícios. 
 
+## Ferramentas
+Para testar esses códigos é necessário utilizar a ferramenta visualg
+
 ## Recursos Adicionais
 - [Curso em Vídeo](https://www.cursoemvideo.com/): Visite o site oficial para mais recursos de aprendizado em programação.
